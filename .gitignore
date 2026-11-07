@@ -1,0 +1,9 @@
+# Third-party data: never commit (downloaded at runtime instead)
+*.csv
+*.db
+data/
+
+# Tooling
+node_modules/
+.DS_Store
+Thumbs.db
