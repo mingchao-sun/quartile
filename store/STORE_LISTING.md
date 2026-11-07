@@ -45,7 +45,7 @@ Display journal and citation metrics for papers listed on researchmap.
 
 ## Privacy policy URL
 
-Host `PRIVACY.md` from the GitHub repository and paste its URL here: `<PRIVACY_POLICY_URL>`
+Host `PRIVACY.md` from the GitHub repository and paste its URL here: `https://github.com/mingchao-sun/quartile/blob/main/PRIVACY.md`
 
 ## Store graphics
 
