@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Quartile",
   "version": "1.0.0",
-  "description": "Journal and citation metrics beside papers on researchmap, with optional JCR, CAS, CCF and warning-list tables. Unofficial; not affiliated with researchmap or JST.",
+  "description": "Journal and citation metrics beside researchmap papers, with optional JCR, CAS, CCF and warning tables. Unofficial.",
   "permissions": ["storage", "unlimitedStorage"],
   "host_permissions": [
     "https://researchmap.jp/*",
